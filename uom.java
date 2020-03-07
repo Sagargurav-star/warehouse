@@ -1,1 +1,1 @@
-Test
+public class umo{}
